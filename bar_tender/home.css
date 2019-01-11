@@ -1,0 +1,45 @@
+.accordion7 {text-align: center;}
+.accordion7 .inner {display: none;}
+.accordion7 .inner li ul{display: none;}
+.accordion7 p{cursor: pointer; padding: 10px;}
+.accordion7 p.ac1{background: #F50057;}
+.accordion7 p.ac2{background: #FFEA00;}
+.accordion7 p.ac3{background: #64DD17;}
+.accordion7 .inner li ul li{padding: 10px 0;}
+.accordion7 .inner li > p{cursor: pointer;}
+.accordion7 .inner li.content1-1{background: #F48FB1;}
+.accordion7 .inner li.content1-1 li:nth-child(1){background: #f5a9c2;}
+.accordion7 .inner li.content1-1 li:nth-child(2){background: #f5c1d3;}
+.accordion7 .inner li.content1-1 li:nth-child(3){background: #f5dae3;}
+.accordion7 .inner li.content1-2{background: #F8BBD0;}
+.accordion7 .inner li.content1-2 li:nth-child(1){background: #f7cbda;}
+.accordion7 .inner li.content1-2 li:nth-child(2){background: #f7dce6;}
+.accordion7 .inner li.content1-2 li:nth-child(3){background: #f7edf1;}
+.accordion7 .inner li.content1-3{background: #FCE4EC;}
+.accordion7 .inner li.content1-3 li:nth-child(1){background: #fcebf1;}
+.accordion7 .inner li.content1-3 li:nth-child(2){background: #fcf2f6;}
+.accordion7 .inner li.content1-3 li:nth-child(3){background: #fcfafb;}
+.accordion7 .inner li.content2-1{background: #FFF59D;}
+.accordion7 .inner li.content2-1 li:nth-child(1){background: #fff8b8;}
+.accordion7 .inner li.content2-1 li:nth-child(2){background: #fffad1;}
+.accordion7 .inner li.content2-1 li:nth-child(3){background: #fffdeb;}
+.accordion7 .inner li.content2-2{background: #FFF9C4;}
+.accordion7 .inner li.content2-2 li:nth-child(1){background: #fffbd6;}
+.accordion7 .inner li.content2-2 li:nth-child(2){background: #fffde8;}
+.accordion7 .inner li.content2-2 li:nth-child(3){background: #fffefa;}
+.accordion7 .inner li.content2-3{background: #fffbd9;}
+.accordion7 .inner li.content2-3 li:nth-child(1){background: #fffce3;}
+.accordion7 .inner li.content2-3 li:nth-child(2){background: #fffded;}
+.accordion7 .inner li.content2-3 li:nth-child(3){background: #fffef7;}
+.accordion7 .inner li.content3-1{background: #C5E1A5;}
+.accordion7 .inner li.content3-1 li:nth-child(1){background: #cde0b6;}
+.accordion7 .inner li.content3-1 li:nth-child(2){background: #d5e0c8;}
+.accordion7 .inner li.content3-1 li:nth-child(3){background: #dde0da;}
+.accordion7 .inner li.content3-2{background: #DCEDC8;}
+.accordion7 .inner li.content3-2 li:nth-child(1){background: #e1edd3;}
+.accordion7 .inner li.content3-2 li:nth-child(2){background: #e7eddf;}
+.accordion7 .inner li.content3-2 li:nth-child(3){background: #ecedeb;}
+.accordion7 .inner li.content3-3{background: #F1F8E9;}
+.accordion7 .inner li.content3-3 li:nth-child(1){background: #f3f7ed;}
+.accordion7 .inner li.content3-3 li:nth-child(2){background: #f5f7f2;}
+.accordion7 .inner li.content3-3 li:nth-child(3){background: #f7f7f7;}
