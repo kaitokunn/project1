@@ -3,7 +3,7 @@ var i = 0;
 var url = "../images/" //背景画像保存先
 //配列を作成
 
-var img = new Array("num1.jpg","num2.jpg","num3.jpg","num4.jpg","num5.jpg","num6.jpg","num7.jpg","num8.jpg");
+var img = new Array("num3.jpg","num6.jpg","num1.jpg");
 
 function change(){                //背景画像を変える
   i++;
