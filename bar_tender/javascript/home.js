@@ -1,4 +1,4 @@
-$(function() {
+$(function(){
 
 	//.accordion7の中のp要素がクリックされたら
 	$('.accordion7 p').click(function(){
