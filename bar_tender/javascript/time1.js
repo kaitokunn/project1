@@ -3,7 +3,7 @@ var i = 0;
 var url = "../images/" //背景画像保存先
 //配列を作成
 
-var img = new Array("num3.jpg","num6.jpg","num1.jpg");
+var img = new Array("haikeiux.svg");
 
 function change(){                //背景画像を変える
   i++;
@@ -15,5 +15,4 @@ function change(){                //背景画像を変える
 
 // function tm(){                    //タイマーをセット
   // document.body.background = url + img[i];
-  setInterval("change()",2000);
-// }
+  setInterval("change()",0);

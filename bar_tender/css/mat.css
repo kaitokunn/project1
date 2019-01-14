@@ -1,0 +1,18 @@
+.mat {
+  text-align: center;
+  text-align: justify-all;
+  text-justify: justify-all;
+}
+.mat img {
+transform: rotate( +90deg );
+width: 250px; height: 250px; border: 0;
+}
+.mat p {
+  font-size: 18px;
+}
+.box1 {
+  text-align: left;
+}
+.box1 img {
+  transform: rotate( +0deg );
+}
