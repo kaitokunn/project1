@@ -4,15 +4,60 @@ color: #FFFFFF;
 .moji1 {
 color: #FFFFFF;
 }
-.rank1 {
+.moji1 a {
+color: red;
+}
+.rank {
   text-align: left;
 }
-.rank1 p {
+.rank p {
   font-size: 17px;
 }
-.rank2 {
-  text-align: left;
+.font {
+  font-size: 15px;
+  padding: 0.5em 1em;
+   margin: 2em 0;
+   background: #005500;
+   border: double 5px #AAAAAA;
+   width: 500px;
+   height: 320px;
 }
-.rank2 p {
-  font-size: 17px;
+.font p {
+  color: white;
+    margin: 0;
+    padding: 0;
+}
+.moji2 {
+color: #FFFFFF;
+text-align: center;
+text-align: justify-all;
+  text-justify: justify-all;
+}
+.moji2 a {
+  color: red;
+  text-align: center;
+  text-align: justify-all;
+    text-justify: justify-all;
+}
+.font1 {
+  text-align: justify-all;
+  text-justify: justify-all;
+  font-size: 15px;
+  padding: 0.5em 1em;
+   margin: 2em 0;
+   background: #FFCC00;
+   border: double 5px #AAAAAA;
+   width: 500px;
+   height: auto;
+}
+.font1 p {
+  color: black;
+    margin: 0;
+    padding: 0;
+}
+.moji3 {
+color: #FFFFFF;
+text-align: center;
+text-align: justify-all;
+  text-justify: justify-all;
 }
