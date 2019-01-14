@@ -4,3 +4,15 @@ color: #FFFFFF;
 .moji1 {
 color: #FFFFFF;
 }
+.rank1 {
+  text-align: left;
+}
+.rank1 p {
+  font-size: 17px;
+}
+.rank2 {
+  text-align: left;
+}
+.rank2 p {
+  font-size: 17px;
+}
